@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "pack de mensajitos de buenos días",
+    "price": "5",
+    "description": "Aquí vienen 3 mensajitosde piolín",
+    "image_url": "https://imgur.com/FnqOYCO.png",
+    "filename": "piolin.zip",
+    "hash": "QmYdD1Dvay59HD7jA47pb91S1hj6tKPZWMLFpxWpEgRCyC"
+  },
+  {
+    "id": 2,
+    "name": "frases de piolin 2",
+    "price": "0.01",
+    "image_url": "https://i.imgur.com/yBJj9Rp.jpeg",
+    "description": "Imágenes de Piolin 2",
+    "filename": "Frases-buenos-dias-piolin-2.zip",
+    "hash": "QmUed6bKH5eBqkeyFhbsk4SMWiKoWJa1pwwtjS2Ps95v9i"
+  }
+]

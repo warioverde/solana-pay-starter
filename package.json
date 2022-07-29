@@ -17,7 +17,9 @@
     "clean": "shx rm -rf .next",
     "dev": "next dev",
     "build": "yarn clean && next build",
-    "start": "next start",
+    "start": "next start -p $PORT",
+    "heroku-postbuild": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "next lint"
   },
   "dependencies": {
